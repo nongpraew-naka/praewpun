@@ -1,7 +1,5 @@
 # praew<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=FFC0CB&height=180&section=header&text=Praewpun&fontSize=55&fontColor=FFFFFF&animation=fadeIn&quot; width="100%"/>
-
 # 🎀 Welcome to my world 🎀
 
 ### 🌷 Hi! I'm Praewpun 🌷
